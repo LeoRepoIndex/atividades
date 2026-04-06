@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+    background: cadetblue;
+}
+nav a:hover{
+    color: #ff0000;
+}
+
+.navigation a{
+    margin-right: 30px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.navigation-right a{
+    margin-right: 0px;
+    text-decoration: none;
+    color: #000000;
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background: #f1f1f1;
+    margin-top: 550px;
+}
